@@ -1,4 +1,4 @@
-<img src="/.github/assets/nilbase.svg" height="64" />
+<img src=".github/assets/nilbase.svg" height="64" />
 
 ---
 

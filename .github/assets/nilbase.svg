@@ -1,18 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 96 32" >
+     viewBox="0 0 100 30">
       <!-- made with glitcher-cli v0.3
         █▀▀ █░░ █ ▀█▀ █▀▀ █░█ █▀▀ █▀█
         █▄█ █▄▄ █ ░█░ █▄▄ █▀█ ██▄ █▀▄
       https://github.com/metaory/glitcher-cli -->
-
       <text filter="url(#glitch)"
-            fill="#EEAAFF"
+            fill="#EEDDFF"
             font-family="monospace, serif"
             font-weight="bolder"
             font-size="x-large"
             text-anchor="middle"
             dominant-baseline="mathematical"
-            x="50%" y="42%"
+            x="50%" y="30%"
       >n̲̲𐦣lb̲a̶̶s̶̶ɘ</text>
       <defs>
       <filter id="glitch"
